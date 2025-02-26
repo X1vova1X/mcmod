@@ -4,7 +4,7 @@ McMod is a free tool, that allows you to manage your Minecraft mods easily.
 - To do: Add a mod hub inside McMod
 - First, download the .jar file of the mod online.
 - Second, open McMod and select your .minecraft folder.
- Third, press continue, enter custom name for your mod in "Mod name" field and press "Add Mod".
+- Third, press continue, enter custom name for your mod in "Mod name" field and press "Add Mod".
 ## Removing mods:
 ### You can only remove mods, that were installed with McMod
 - To do: Nothing.
